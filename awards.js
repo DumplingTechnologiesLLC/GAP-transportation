@@ -37,11 +37,16 @@ module.exports = [
   },
   {
     year: '2022',
-    text: '2022 BBB Torch Award for Ethics Runner-Up',
+    text: 'BBB Torch Award for Ethics Runner-Up',
     img: '/images/awards/2022BBB.webp',
     link: 'https://www.gap-advisors.com/news/gilbert-pardue-runner-up-in-2022-bbb-torch-award-for-ethics',
   },
   // add new awards below this line
-
+  {
+    year: '2022',
+    text: "Inc. 5000's fastest growing companies",
+    img: '/images/awards/inc500FastestGrowing.webp',
+    link: 'https://www.gap-advisors.com/news/gilbert-pardue-transaction-advisors-amongst-inc-5000s-fastest-growing-companies-for-2022',
+  },
   // add new awards above this line
 ]
